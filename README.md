@@ -1,4 +1,4 @@
-# Reservater
+# room_reservater
 
 방 예약을 쉽게하기 위한 오토 프로그램
 
